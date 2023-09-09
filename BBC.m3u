@@ -21,3 +21,5 @@ http://vs-hls-pushb-uk-live.akamaized.net/x=3/i=urn:bbc:pips:service:bbc_one_sou
 https://dotcom-itv1-hls.akamaized.net/hls/live/626379/itvlive/itv1/master_Main1800.m3u8
 #EXTINF:-1,ITV Two
 https://dotcom-itv2-hls.akamaized.net/hls/live/626380/itvlive/itv2/master_Main1800.m3u8
+#EXTINF:-1,Channel 4
+https://cdnuk001.broadcastcdn.net/KUK-CHANNEL4/tracks-v1a1/playlist.m3u8
